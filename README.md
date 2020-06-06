@@ -4,7 +4,7 @@ Litmus Box is a emotion detecting AI device that aims to help people in depressi
 
 This project was built as part of a hackathon: NUS Makerthon 2019. It is is a month-long competition over winter focusing on solutions for social change.
 
-![Our Solution :)](./resources/litmusBox.jpg)
+![Our Solution :)](./resources/litmusBox.jpg=100x100)
 
 ## Hardware Required
 - Raspberry Pi 3B Model
